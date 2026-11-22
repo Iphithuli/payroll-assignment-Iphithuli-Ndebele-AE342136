@@ -10,19 +10,6 @@ The bonus is calculated as a percentage of the employee's basic monthly salary:
 - **Years of service:** 0–1 years = 0%; 2–4 years = 1%; 5 or more years = 2%.
 The three bonus amounts are added together. Total pay is basic salary plus total bonus.
 
-## Requirements
-- A C++ compiler such as g++.
-- A terminal or command prompt.
-
-## Compile and run
-From the project folder, run:
-
-```bash
-g++ -std=c++11 -Wall -Wextra -pedantic main.cpp -o payroll
-./payroll
-```
-
-On Windows, run `payroll.exe` after compiling.
 
 ## Example
 Input:
@@ -49,7 +36,4 @@ Expected calculation:
 - Lecturer: Mr Owami
 - LinkedIn profile: [www.linkedin.com/in/iphithuli-ndebele-32138044a]
 
-## References
-- cplusplus.com, “C++ Language Tutorial” (consulted for C++ syntax and control structures): https://cplusplus.com/doc/tutorial/
-- cppreference.com, “for loop” (consulted for loop structure): https://en.cppreference.com/w/cpp/language/for
-- OpenAI ChatGPT (used for assistance with planning, code drafting, and documentation)
+
